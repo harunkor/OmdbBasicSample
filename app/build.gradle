@@ -40,7 +40,6 @@ dependencies {
     def retro_version = "2.9.0" // retrofit version
     def okhttp3_version = "4.9.0" // okhttp3 version
     def picasso_version = "2.71828" // picasso version
-    def gifplayer_version = "1.0.0" // gif my lib version
     def transformations_version = "2.2.1" // photo bluer version
 
 

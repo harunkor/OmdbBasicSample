@@ -10,7 +10,9 @@ Checked List
 - [x] Picasso
 - [x] Navigation graph
 
-[<img alt="alt_text" width="400px" src="http://cloudphony.com/wp-content/uploads/2016/09/Google-Play-Icon.png" />](https://www.google.com/)
+
+
+[<img alt="alt_text" width="200px" src="http://cloudphony.com/wp-content/uploads/2016/09/Google-Play-Icon.png" />](https://play.google.com/store/apps/details?id=com.harunkor.omdbbasicsample)
 
  Preview  *
 
